@@ -24,8 +24,8 @@ Type something here
 
 ## Todo list
 
--fix/come up with the naming convention
--lint the JS
--improve folder structure
--make sure unit and e2e tests work
+fix/come up with the naming convention
+lint the JS
+improve folder structure
+make sure unit and e2e tests work
 
