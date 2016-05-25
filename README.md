@@ -24,5 +24,8 @@ Type something here
 
 ## Todo list
 
-Type something here
+-fix/come up with the naming convention
+-lint the JS
+-improve folder structure
+-make sure unit and e2e tests work
 
