@@ -1,6 +1,6 @@
-# Merchant hub test project
+# Test project For FE team
 
-This repository is created to test Angular2 for merchant hub, setting up our Angular workflow standards and more.
+This repository is created for testing and practicing angular2 workflow.
 
 **This project should not include any actual MH code.**
 
